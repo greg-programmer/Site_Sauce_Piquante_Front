@@ -1,2 +1,1 @@
--taper la commande "npm install" dans le dossier
--"npm run start" pour lancer le serveur
+-taper la commande "npm install" dans le dossier cloné, ensuite, lancer "npm run start" pour lancer le serveur
